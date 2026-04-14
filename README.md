@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Heorhii Hryshyn 👋
 
-<!--
-**heorhiihryshyn/heorhiihryshyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Fraud Research Manager specializing in **Threat Intelligence**, **Cybersecurity**, and **Fraud Prevention**. My work focuses on dissecting complex fraud ecosystems and providing actionable intelligence to disrupt adversary operations.
 
-Here are some ideas to get you started:
+### 🛡️ Professional Expertise
+* **Payment Fraud Intelligence:** Mapping emerging TTPs and global supply chains in the payment landscape.
+* **Threat Actor Analysis:** Investigating the intersection of financial fraud and APT/nation-state activities.
+* **Strategic Defense:** Developing frameworks to bridge the gap between cyber-threat detection and fraud prevention.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Career
+Currently leading the **Fraud Research** team at **Recorded Future**.
+
+---
+
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/heorhiihryshyn/) | [Twitter/X](https://x.com/heorhii_h)
